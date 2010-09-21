@@ -10,7 +10,7 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
 
 // Define the plugin:
 $PluginInfo['Privacy'] = array(
-   'Description' => '',
+   'Description' => 'Adds the ability to control access to profile and activity pages.',
    'Version' => '1.0',
    'RequiredApplications' => FALSE,
    'RequiredTheme' => FALSE,
